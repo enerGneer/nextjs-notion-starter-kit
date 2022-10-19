@@ -2,6 +2,8 @@
   box-sizing: border-box;
 }
 
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css); 
+
 a {
   color: inherit;
   text-decoration: none;
@@ -14,7 +16,9 @@ html {
 }
 
 body {
-  --notion-font: 'Spoqa Han Sans Neo', 'Noto Sans JP', 'Noto Sans KR', sans-serif;
+  --notion-font: 'Noto Sans JP', 'Noto Sans KR', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', 'Noto Sans', sans-serif;
   font-family: var(--notion-font);
   overflow-x: hidden;
 }
