@@ -18,9 +18,10 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
-            <link rel="preconnect" href="https://fonts.googleapis.com" />
-            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-            <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet" />
+            <link rel="preconnect" href="//fonts.googleapis.com" />
+            <link rel="preconnect" href="//fonts.gstatic.com" crossorigin />
+            <link href="//fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet" />
+            <link href="//fonts.googleapis.com/earlyaccess/notosansjp.css" />
           </Head>
 
           <body>
