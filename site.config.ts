@@ -17,8 +17,8 @@ export default siteConfig({
   description: '',
 
   // social usernames (optional)
-  twitter: 'enerGneer',
-  github: 'enerGneer',
+  twitter: '',
+  github: '',
   linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
