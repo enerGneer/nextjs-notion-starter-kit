@@ -59,7 +59,8 @@
 }
 
 .notion-gallery-grid .notion-page-title-text {
-  font-size: 2em;
+  font-size: 1.5em; /* origin : 2.0em; */
+  font-weight : 600; /* origin : */
   white-space: unset;
 }
 
