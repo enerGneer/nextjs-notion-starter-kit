@@ -25,7 +25,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: './public/favicon-192x192.png',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
