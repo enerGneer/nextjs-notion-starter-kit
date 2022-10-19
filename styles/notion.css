@@ -119,6 +119,7 @@
   padding: 0.2em 0.75em;
   line-height: 1.5;
 /*  font-style: italic; */
+  font-weight: 300; /* origin : */
   font-size: 1.2em;
   border-left: 4px solid #67bdfc;
 }
@@ -134,7 +135,8 @@
 }
 
 .notion-hr {
-  margin: 2em 0;
+/*  margin: 2em 0; */
+    margin: 2px 0;
 }
 
 @media only screen and (max-width: 920px) {
